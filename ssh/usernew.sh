@@ -4,8 +4,8 @@ biji=`date +"%Y-%m-%d" -d "$dateFromServer"`
 #########################
 # Getting
 clear
-export CHATID="5736569839"
-export KEY="6307367714:AAG_Gae1CEjB-BDTYLzHSb89kbmLxzln7mk"
+export CHATID="6061644931"
+export KEY="6406070059:AAFIpAWnbnnuikvxeWgz4rJwA5SrCVYe5VA"
 export TIME="10"
 export URL="https://api.telegram.org/bot$KEY/sendMessage"
 clear
